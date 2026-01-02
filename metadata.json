@@ -1,0 +1,7 @@
+{
+  "name": "TubeFlow - Smart YouTube Wrapper",
+  "description": "A premium, AI-enhanced YouTube viewing experience that uses the official embedding system to ensure high-quality playback while providing intelligent video insights and search refinements using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
